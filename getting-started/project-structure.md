@@ -22,7 +22,7 @@ my-react-app/
 ├── vite.config.js # Vite configuration file
 ├── README.md # Project documentation (this file)
 └── package-lock.json # Automatically generated for npm to lock dependencies
-
+```
 ---
 
 ## Description of Each Folder/File
