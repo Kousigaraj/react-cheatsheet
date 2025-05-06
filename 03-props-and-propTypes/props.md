@@ -48,7 +48,7 @@ npm install prop-types
 
 ## Example of Using PropTypes
 
-```
+```jsx
 import React from 'react';
 import PropTypes from 'prop-types';
 
