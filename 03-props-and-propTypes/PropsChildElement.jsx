@@ -14,13 +14,17 @@ const ArraySample = (props) => {
   )
 }
 
+ArraySample.propTypes = {
+  items: PropTypes.array,
+}
+
 const ChildComponent = (props) => {
   return (
     <div>{props.children}</div>
   )
 }
 
-ChildComponent.PropTypes = {
+ChildComponent.propTypes = {
     children: PropTypes.array,
 }
 

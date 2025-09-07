@@ -23,7 +23,7 @@ const Students = (props) => {
     )
   }
 
-  Students.PropTypes={
+  Students.propTypes={
     name: PropTypes.string,
     age: PropTypes.number,
     status: PropTypes.bool,
